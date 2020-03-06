@@ -329,12 +329,12 @@
                     </div><!-- /.block-title -->
                     <form action="assets/inc/sendemail.php" class="case-form-one__form contact-form-validated">
                         <div class="row">
-                            <div class="col-lg-4 col-md-6 col-sm-12">
+                            <div class="col-md-6 col-sm-12">
                                 <div class="case-form-one__field">
                                     <input type="text" name="name" placeholder="Your Name">
                                 </div><!-- /.case-form-one__field -->
                             </div><!-- /.col-md-6 col-sm-12 -->
-                            <div class="col-lg-4 col-md-6 col-sm-12">
+                            <div class="col-md-6 col-sm-12">
                                 <div class="case-form-one__field">
                                     <input type="text" name="email" placeholder="Email">
                                 </div><!-- /.case-form-one__field -->
@@ -368,7 +368,7 @@
                                 <div class="testimonials-one__info">
                                     <div class="testimonials-one__info-image">
                                         <div class="testimonials-one__info-image-inner">
-                                            <img src="assets/images/resources/testi-1-1.jpg" alt="Awesome Image" />
+                                            <img src="assets/images/resources/costumer.jpg" alt="Awesome Image" />
                                         </div><!-- /.testimonials-one__info-image-inner -->
                                     </div><!-- /.testimonials-one__info-image -->
                                     <div class="testimonials-one__info-content">
@@ -385,7 +385,7 @@
                                 <div class="testimonials-one__info">
                                     <div class="testimonials-one__info-image">
                                         <div class="testimonials-one__info-image-inner">
-                                            <img src="assets/images/resources/testi-1-1.jpg" alt="Awesome Image" />
+                                            <img src="assets/images/resources/costumer2.jpg" alt="Awesome Image" />
                                         </div><!-- /.testimonials-one__info-image-inner -->
                                     </div><!-- /.testimonials-one__info-image -->
                                     <div class="testimonials-one__info-content">
@@ -402,24 +402,7 @@
                                 <div class="testimonials-one__info">
                                     <div class="testimonials-one__info-image">
                                         <div class="testimonials-one__info-image-inner">
-                                            <img src="assets/images/resources/testi-1-1.jpg" alt="Awesome Image" />
-                                        </div><!-- /.testimonials-one__info-image-inner -->
-                                    </div><!-- /.testimonials-one__info-image -->
-                                    <div class="testimonials-one__info-content">
-                                        <h4 class="testimonials-one__info-name">John Benson</h4><!-- /.testimonials-one__info-name -->
-                                        <p class="testimonials-one__info-designation">Florida, USA</p><!-- /.testimonials-one__info-designation -->
-                                    </div><!-- /.testimonials-one__info-content -->
-                                </div><!-- /.testimonials-one__info -->
-                            </div><!-- /.testimonials-one__single -->
-                        </div><!-- /.item -->
-                        <div class="item">
-                            <div class="testimonials-one__single">
-                                <i class="opklim-qoute-1-1 testimonials-one__icon"></i>
-                                <p class="testimonials-one__text">Ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt labore etuy dolore magna aduras minim veniam, quis nostrud exercitation ullamco enim ad minim veniam quis nostrud exercitation ullamco duis autey irure dolor in reprehenderit in voluptate velit esse cillum dolore.</p><!-- /.testimonials-one__text -->
-                                <div class="testimonials-one__info">
-                                    <div class="testimonials-one__info-image">
-                                        <div class="testimonials-one__info-image-inner">
-                                            <img src="assets/images/resources/testi-1-1.jpg" alt="Awesome Image" />
+                                            <img src="assets/images/resources/costumer3.jpg" alt="Awesome Image" />
                                         </div><!-- /.testimonials-one__info-image-inner -->
                                     </div><!-- /.testimonials-one__info-image -->
                                     <div class="testimonials-one__info-content">
