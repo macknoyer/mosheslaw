@@ -1,4 +1,7 @@
-
+        <div style="display: none;" id="hidden-content">
+            <h2>Hello</h2>
+            <p>You are awesome.</p>
+        </div>
         <section class="brands content-wrapper">
             <div class="container">
                 <div class="row">
