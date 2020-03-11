@@ -1,3 +1,10 @@
+body {
+	min-width: 320px;
+	overflow-x: hidden;
+	line-height: 1.45;
+}
+
+
 .h3, h3 {
 	font-size: 22px;
 }
@@ -5,6 +12,9 @@
 .main-logo {
 	width: 300px;
 	/*height: 55px;*/
+}
+.main-logo.mobile {
+	display: none;
 }
 .main-logo-small {
 	width: 200px;
@@ -60,7 +70,8 @@
 	display: none;
 	margin-right: 40px;
 }
-.site-header__header-one.dark .header-navigation ul.navigation-box > li > a,.topbar-one.dark .header-phone{
+.site-header__header-one.dark .header-navigation ul.navigation-box > li > a,.topbar-one.dark .header-phone,
+.site-header__header-one.dark .header-phone{
 	color: #333;
 }
 .site-header__header-one.dark .header-navigation.stricked-menu.stricky-fixed ul.navigation-box > li > a {
@@ -179,7 +190,8 @@
 }
 .blog-one {padding-bottom: 0;}
 .case-form-one__field textarea {padding-left: 0;}
-
+.logo-box .header-phone {display: none;}
+.logo-box .header-phone i {margin-right: 0;}
 /**********media********/
 
 
@@ -189,6 +201,34 @@
 	}
 }
 @media (max-width: 991px) {
+	body {
+		font-size: 14px;
+	}
+	h1,.h1,.inner-banner__title {
+		font-size: 26px;
+	}
+	.block-title__title,.mailchimp-one__title {
+		font-size: 22px;
+	}
+	.content-wrapper {
+		margin-top: 50px;
+	}
+	.inner-banner .thm-breadcrumb {
+		display: none;
+	}
+	.logo-box .header-phone {
+		display: inline-block;
+	}
+	.topbar-one {
+		display: none;
+	}
+	.main-logo {
+		display: none;
+	}
+	.main-logo.mobile {
+		width: 55px;
+		display: inline-block;
+	}
 	.brand-img {margin-bottom: 10px;}
 	.case-form-one__field.red {margin-bottom: 15px;}
 	.fact-one__box .logo_red_small,.topbar-one__left p {display: none;}

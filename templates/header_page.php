@@ -44,7 +44,9 @@
                         <div class="logo-box">
                             <a class="navbar-brand" href="index.html">
                                 <img src="assets/images/resources/logo_red.png" class="main-logo" alt="Awesome Image" />
+                                <img src="assets/images/resources/logo_red_small.png" class="main-logo mobile" alt="Awesome Image" />
                             </a>
+                            <a class="header-phone" href="tel:(888) 445-0234"><i class="fas fa-phone-alt"></i> <span>(888) 445-0234</span></a>
                             <button class="menu-toggler" data-target=".main-navigation">
                                 <span class="fa fa-bars"></span>
                             </button>
