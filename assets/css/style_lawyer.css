@@ -60,6 +60,7 @@ body {
 }
 .case-form-one .inner-container.popup-form {
 	box-shadow: none;
+	padding: 0;
 }
 .case-form-one .inner-container.popup-form::before, .case-form-one .inner-container.popup-form::after {
 	display: none;
