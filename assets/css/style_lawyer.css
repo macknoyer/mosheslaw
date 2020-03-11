@@ -10,7 +10,7 @@ body {
 }
 
 .main-logo {
-	width: 300px;
+	width: 250px;
 	/*height: 55px;*/
 }
 .main-logo.mobile {
@@ -58,6 +58,12 @@ body {
 	left: 47%;
 	z-index: 10;
 }
+.case-form-one .inner-container.popup-form {
+	box-shadow: none;
+}
+.case-form-one .inner-container.popup-form::before, .case-form-one .inner-container.popup-form::after {
+	display: none;
+}
 .cta-one,.inner-banner {background-image: url(../images/background/fact-bg-2-1.jpg);}
 .inner-banner {padding: 50px 0;}
 .cta-one__phone a {font-size: 40px;}
@@ -74,9 +80,11 @@ body {
 .site-header__header-one.dark .header-phone{
 	color: #333;
 }
-.site-header__header-one.dark .header-navigation.stricked-menu.stricky-fixed ul.navigation-box > li > a {
+.site-header__header-one.dark .header-navigation.stricked-menu.stricky-fixed ul.navigation-box > li > a, 
+.site-header__header-one.dark .stricked-menu.stricky-fixed .header-phone.fixed {
 	color:#fff;
 }
+
 .site-header__header-one.dark .header-navigation ul.navigation-box > li.current > a,.site-header__header-one.dark .header-navigation ul.navigation-box > li:hover > a {
 	    color: #e0a965;
 }
