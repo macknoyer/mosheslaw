@@ -4,9 +4,9 @@
             <div class="slider-one__carousel">
                 <div class="item slider-one__slide slider-one__slider-1" style="background-image: url(assets/images/slider/loym-main.jpg);" data-thumb="assets/images/slider/loym-main.jpg">
                     <div class="container">
-                        <p class="slider-one__tag-line">Most Successful Law Firm</p><!-- /.slider-one__tag-line -->
+                        <p class="slider-one__tag-line">Effective Legal Solutions</p><!-- /.slider-one__tag-line -->
                         <h2 class="slider-one__title">Employment, Personal Injury and Real Estate Lawyers NYC   </h2><!-- /.slider-one__title -->
-                        <p class="slider-one__text">Effective Legal Solutions</p>
+                        <!-- <p class="slider-one__text">Effective Legal Solutions</p> -->
                         <!-- /.slider-one__text -->
                         <a href="#" class="thm-btn slider-one__btn">get the lawyer <i class="fas fa-long-arrow-alt-right"></i></a><!-- /.thm-btn slider-one__btn -->
                     </div><!-- /.container -->
@@ -18,8 +18,9 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="block-title">
-                            <h3 class="block-title__title"> Law Office of <br> Yuriy Moshes, P.C <br> skilled lawyers to help <br> for all your legal needs.</h3><!-- /.block-title__title -->
-                            <p class="block-title__text-one">Proident culpa officia deserunt mollit animd laborum perspicia <br> natus error voluptatem qui acusantium dolore laudan.</p><!-- /.block-title__text-one -->
+                            <!-- <h3 class="block-title__title"> Law Office of <br> Yuriy Moshes, P.C <br>  to help for all your legal needs.</h3>/.block-title__title -->
+                            <h3 class="block-title__title">Need advice from lawyers?<br> Make an appointment today</h3><!-- /.block-title__title -->
+                            <p class="block-title__text-one">We are more than just your typical law firm.</p><!-- /.block-title__text-one -->
                         </div><!-- /.block-title -->
                     </div><!-- /.col-lg-6 -->
                     <div class="col-lg-6">
@@ -303,10 +304,10 @@
 
         <section class="cta-one">
             <div class="container text-center">
-                <h3 class="cta-one__title">Need an Advice from Expert Lawyers? <br> Get an Appointment Today!</h3><!-- /.cta-one__title -->
+                <h3 class="cta-one__title">Need an Advice? <br> Get an Appointment Today!</h3><!-- /.cta-one__title -->
                 <p class="cta-one__phone">
                     <i class="fa fa-phone-alt"></i>
-                    Call us for a quick help!
+                    Call us for a help!
                     <a href="tel:(888) 445-0234">(888) 445-0234</a>
                 </p><!-- /.cta-one__phone -->
                 <ul class="list-unstyled cta-one__contact">
@@ -324,7 +325,7 @@
             <div class="container">
                 <div class="inner-container wow fadeInUp" data-wow-duration="1500ms">
                     <div class="block-title text-center">
-                        <h3 class="block-title__title">Get Free Case Evaluation</h3><!-- /.block-title__title -->
+                        <h3 class="block-title__title">Free Case Evaluation</h3><!-- /.block-title__title -->
                         <p class="block-title__text-one">Proident sunt culpa officia deserunt mollit animd laborum perspicia natus <br> error voluptatem qui acusantium doloremque laudan.</p><!-- /.block-title__text-one -->
                     </div><!-- /.block-title -->
                     <form action="assets/inc/sendemail.php" class="case-form-one__form contact-form-validated">
@@ -337,6 +338,11 @@
                             <div class="col-md-6 col-sm-12">
                                 <div class="case-form-one__field">
                                     <input type="text" name="email" placeholder="Email">
+                                </div><!-- /.case-form-one__field -->
+                            </div><!-- /.col-md-6 col-sm-12 -->
+                            <div class="col-md-6 col-sm-12">
+                                <div class="case-form-one__field">
+                                    <input type="text" name="Phone" placeholder="Phone">
                                 </div><!-- /.case-form-one__field -->
                             </div><!-- /.col-md-6 col-sm-12 -->
                             <div class="col-lg-12 col-md-12 col-sm-12">
@@ -358,7 +364,7 @@
         </section><!-- /.cta-one -->
         <section class="testimonials-one">
             <div class="container">
-                <h3 class="testimonials-one__title">Words From Clients</h3><!-- /.testimonials-one__title -->
+                <h3 class="testimonials-one__title">Testimonials and reviews</h3><!-- /.testimonials-one__title -->
                 <div class="inner-container">
                     <div class="thm__owl-carousel testimonials-one__carousel owl-carousel owl-theme" data-options='{"loop": true, "margin": 0, "nav": false, "dots": true, "autoWidth": false, "autoplay": true, "smartSpeed": 700, "autoplayTimeout": 5000, "autoplayHoverPause": true, "responsive": {"0": {"items": 1 }, "480": {"items": 1 }, "600": {"items": 1 }, "991": {"items": 1 }, "1000": {"items": 1 }, "1200": {"items": 1 } } }'>
                         <div class="item">
@@ -420,7 +426,7 @@
             <div class="container">
                 <div class="blog-one__top">
                     <div class="block-title">
-                        <h3 class="block-title__title">What’s Happening</h3><!-- /.block-title__title -->
+                        <h3 class="block-title__title">Current Press</h3><!-- /.block-title__title -->
                         <p class="block-title__text-one">Proident culpa officia deserunt mollit animd laborum perspicia <br> natus error voluptatem qui acusantium dolore laudan.</p><!-- /.block-title__text-one -->
                     </div><!-- /.block-title -->
                     <div class="blog-one__more-block">

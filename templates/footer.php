@@ -4,7 +4,7 @@
         </div> -->
         <section class="brands content-wrapper">
             <div class="container">
-                <div class="row">
+                <div class="row justify-content-center">
                     <div class="col-sm-2 justify-content-center d-flex align-items-center">
                         <img class="img-fluid brand-img" src="assets/images/brand/featuredin4.png" alt="">
                     </div>
@@ -23,6 +23,15 @@
                     <div class="col-sm-2 justify-content-center d-flex align-items-center">
                         <img class="img-fluid brand-img" src="assets/images/brand/blf.png" alt="">
                     </div>
+                    <div class="col-sm-2 justify-content-center d-flex align-items-center">
+                        <img class="img-fluid brand-img" src="assets/images/brand/BDC.svg" alt="">
+                    </div>
+                    <div class="col-sm-2 justify-content-center d-flex align-items-center">
+                        <img class="img-fluid brand-img" src="assets/images/brand/1010WINS-e1516080014979.png" alt="">
+                    </div>
+                    <div class="col-sm-2 justify-content-center d-flex align-items-center">
+                        <img class="img-fluid brand-img" src="assets/images/brand/New_York_Post_logo.png" alt="">
+                    </div>
                 </div>
             </div>
         </section> 
@@ -32,7 +41,7 @@
                     <div class="col-xl-5">
                         <div class="mailchimp-one__content">
                             <h3 class="mailchimp-one__title">Join Our List To Stay Intouch</h3><!-- /.mailchimp-one__title -->
-                            <p class="mailchimp-one__text">Stay in Touch. Our lawyers are available 24/7.</p><!-- /.mailchimp-one__text -->
+                            <p class="mailchimp-one__text">Stay in Touch.</p><!-- /.mailchimp-one__text -->
                         </div><!-- /.mailchimp-one__content -->
                     </div><!-- /.col-xl-5 -->
                     <div class="col-xl-7">

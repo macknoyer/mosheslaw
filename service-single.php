@@ -2,7 +2,6 @@
 <?php include('templates/header_page.php'); ?>
 		<section class="inner-banner">
 			<div class="container">
-				<p class="inner-banner__tag-line">Most Successful Law Firm</p><!-- /.inner-banner__tag-line -->
 				<h2 class="inner-banner__title">Construction Accident Attorney NYC</h2><!-- /.inner-banner__title -->
 				<ul class="list-unstyled thm-breadcrumb">
 					<li><a href="index.html">Home</a></li>

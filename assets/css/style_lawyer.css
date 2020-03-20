@@ -74,12 +74,17 @@ body {
 	margin-right: 0;
 }
 .header-phone.fixed {
-	display: none;
+	/*display: none;*/
 	margin-right: 40px;
 }
 .site-header__header-one.dark .header-navigation ul.navigation-box > li > a,.topbar-one.dark .header-phone,
 .site-header__header-one.dark .header-phone{
 	color: #333;
+}
+.site-header__header-one.dark .header-navigation.stricked-menu.stricky-fixed ul.navigation-box > li > a,
+.slider-one__title
+ {
+	text-shadow: 0 0 30px rgba(0, 0, 0, 0.75);
 }
 .site-header__header-one.dark .header-navigation.stricked-menu.stricky-fixed ul.navigation-box > li > a, 
 .site-header__header-one.dark .stricked-menu.stricky-fixed .header-phone.fixed {
@@ -104,9 +109,6 @@ body {
 }
 .topbar-two__left p {
 	margin-bottom: 0;
-}
-.stricked-menu.stricky-fixed .main-navigation {
-	padding-right: 565px;
 }
 .site-header__header-two .stricked-menu.stricky-fixed .main-navigation {
     padding-right: 88px;
@@ -173,6 +175,8 @@ body {
 .cta-one__contact {margin-bottom: 60px;}
 .testimonials-one__title {
 	color:#333;
+	top: -120px;
+	bottom: auto;
 }
 .cta-two {    
 	padding-top: 50px;
@@ -193,7 +197,7 @@ body {
 .red_form {
 	width: 100%;
 }
-.brand-img {max-width: 150px}
+.brand-img {max-width: 150px;margin-bottom: 20px;}
 .brands {
 	margin-bottom: 100px;
 }

@@ -26,16 +26,16 @@
 <body>
     <div class="preloader"><span><img src="assets/images/resources/preloader.png" alt="Awesome Image" /></span></div><!-- /.preloader -->
     <div class="page-wrapper">
-            <div class="topbar-one dark">
+            <!-- <div class="topbar-one dark">
                 <div class="container">
                     <div class="topbar-two__left">
                         <p>Employment, Personal Injury and Real Estate Lawyers NYC</p>
-                    </div><!-- /.topbar-one__left -->
+                    </div>
                     <div class="topbar-two__right">
                         <a class="header-phone" href="tel:(888) 445-0234"><i class="fas fa-phone-alt"></i>Helpline: <span>(888) 445-0234</span></a>
-                    </div><!-- /.topbar-one__right -->
-                </div><!-- /.container -->
-            </div><!-- /.topbar-one -->
+                    </div>
+                </div>
+            </div> -->
 
             <header class="site-header site-header__header-one dark">
                 <nav class="navbar navbar-expand-lg navbar-light header-navigation stricky">
@@ -81,7 +81,7 @@
                         </div><!-- /.navbar-collapse -->
                         <div class="right-side-box">
                             <a class="header-phone fixed" href="tel:(888) 445-0234"><i class="fas fa-phone-alt"></i>Helpline: <span>(888) 445-0234</span></a>
-                            <a href="#" class="thm-btn header-booking__btn">book an appointment <i class="fas fa-long-arrow-alt-right"></i></a>
+                            <!-- <a href="#" class="thm-btn header-booking__btn">book an appointment <i class="fas fa-long-arrow-alt-right"></i></a> -->
                         </div><!-- /.right-side-box -->
                     </div>
                     <!-- /.container -->
