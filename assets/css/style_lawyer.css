@@ -179,8 +179,8 @@ body {
 	bottom: auto;
 }
 .cta-two {    
-	padding-top: 50px;
-    padding-bottom: 50px;
+	padding: 50px 30px;
+	margin: 30px 0;
 }
 .cta-two__text {
 	margin-bottom: 10px;
@@ -205,6 +205,23 @@ body {
 .case-form-one__field textarea {padding-left: 0;}
 .logo-box .header-phone {display: none;}
 .logo-box .header-phone i {margin-right: 0;}
+
+
+.block-title__title {
+	margin-top: 30px;	
+}
+.block-title__text-two {
+	margin-bottom: 10px;
+}
+.content-insideBlock p > img.aligncenter {
+	margin: 30px auto;
+}
+section.content-insideBlock p a {
+	color:#e0a965;
+}
+section.content-insideBlock p a:hover {
+	color:#c41230;
+}
 /**********media********/
 
 
