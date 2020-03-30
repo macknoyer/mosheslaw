@@ -26,6 +26,8 @@
 <body>
     <div class="preloader"><span><img src="assets/images/resources/preloader.png" alt="Awesome Image" /></span></div><!-- /.preloader -->
     <div class="page-wrapper">
+
+            <div class="topbar-one text-center"><strong>During COVID-19 we provide online consultations via chat.</strong> </div>
             <!-- <div class="topbar-one dark">
                 <div class="container">
                     <div class="topbar-two__left">

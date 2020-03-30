@@ -28,16 +28,7 @@
     <div class="preloader"><span><img src="assets/images/resources/preloader.png" alt="Awesome Image" /></span></div><!-- /.preloader -->
     <div class="page-wrapper">
         <div class="site-header__header-one-wrapper">
-           <!--  <div class="topbar-one">
-                <div class="container">
-                    <div class="topbar-one__left">
-                        <p>Employment, Personal Injury and Real Estate Lawyers NYC</p>
-                    </div>
-                    <div class="topbar-one__right">
-                        <a class="header-phone" href="tel:(888) 445-0234"><i class="fas fa-phone-alt"></i>Helpline: <span>(888) 445-0234</span></a>
-                    </div>
-                </div>
-            </div> -->
+            <div class="topbar-one text-center"><strong>During COVID-19 we provide online consultations via chat.</strong> </div>
             <header class="site-header site-header__header-one  ">
                 <nav class="navbar navbar-expand-lg navbar-light header-navigation stricky">
                     <div class="container clearfix">
