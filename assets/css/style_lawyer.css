@@ -142,12 +142,14 @@ body {
 	margin-top: 0px;
 }
 .marked-list li{
-	display: flex;
+	/*display: flex;*/
 	list-style: none;
 	margin-bottom: 15px;
+	position: relative;
+	padding-left: 30px;
 }
 .marked-list li:before {
-	flex: 0 0 auto;
+	/*flex: 0 0 auto;*/
 	font-family: "Font Awesome 5 Free";
 	font-weight: 900;
 	content: '\f058';
@@ -155,6 +157,20 @@ body {
 	font-size: 18px;
 	color: #c41230;
 	margin-right: 10px;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+.marked-list li img {
+	width: 100%;
+	height: auto;
+	margin: 20px 0;
+}
+.marked-list li a {
+	color:#e0a965;
+}
+.marked-list li a:hover {
+	color:#c41230;
 }
 .faq-one {
 	background: rgb(2,0,2);
