@@ -25,7 +25,7 @@
                                 <h3 class="blog-one__title"><a href="blog-post.html">Tips for the Security Regulators The ‘Inside Story’</a></h3><!-- /.blog-one__title -->
                                 <p class="blog-one__text">Miventore veritatis et quasi architec beat vitae dicta sunt explicabo nem enim cone quuntur magni dolores eos.</p><!-- /.blog-one__text -->
                                 <div class="blog-one__bottom">
-                                    <a class="blog-one__link" href="blog-post.html"><span>More Details</span> <i class="fas fa-long-arrow-alt-right"></i></a>
+                                    <a class="blog-one__link" href="blog-post.html"><span>Read more</span> <i class="fas fa-long-arrow-alt-right"></i></a>
                                     <a href="blog-post.html" class="blog-one__share"><i class="fa fa-share-alt"></i></a>
                                 </div><!-- /.blog-one__bottom -->
                             </div><!-- /.blog-one__content -->
@@ -44,7 +44,7 @@
                                 <h3 class="blog-one__title"><a href="blog-post.html">Tips for the Security Regulators The ‘Inside Story’</a></h3><!-- /.blog-one__title -->
                                 <p class="blog-one__text">Miventore veritatis et quasi architec beat vitae dicta sunt explicabo nem enim cone quuntur magni dolores eos.</p><!-- /.blog-one__text -->
                                 <div class="blog-one__bottom">
-                                    <a class="blog-one__link" href="blog-post.html"><span>More Details</span> <i class="fas fa-long-arrow-alt-right"></i></a>
+                                    <a class="blog-one__link" href="blog-post.html"><span>Read more</span> <i class="fas fa-long-arrow-alt-right"></i></a>
                                 </div><!-- /.blog-one__bottom -->
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
@@ -62,7 +62,7 @@
                                 <h3 class="blog-one__title"><a href="blog-post.html">Tips for the Security Regulators The ‘Inside Story’</a></h3><!-- /.blog-one__title -->
                                 <p class="blog-one__text">Miventore veritatis et quasi architec beat vitae dicta sunt explicabo nem enim cone quuntur magni dolores eos.</p><!-- /.blog-one__text -->
                                 <div class="blog-one__bottom">
-                                    <a class="blog-one__link" href="blog-post.html"><span>More Details</span> <i class="fas fa-long-arrow-alt-right"></i></a>
+                                    <a class="blog-one__link" href="blog-post.html"><span>Read more</span> <i class="fas fa-long-arrow-alt-right"></i></a>
                                 </div><!-- /.blog-one__bottom -->
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
@@ -80,7 +80,7 @@
                                 <h3 class="blog-one__title"><a href="blog-post.html">Tips for the Security Regulators The ‘Inside Story’</a></h3><!-- /.blog-one__title -->
                                 <p class="blog-one__text">Miventore veritatis et quasi architec beat vitae dicta sunt explicabo nem enim cone quuntur magni dolores eos.</p><!-- /.blog-one__text -->
                                 <div class="blog-one__bottom">
-                                    <a class="blog-one__link" href="blog-post.html"><span>More Details</span> <i class="fas fa-long-arrow-alt-right"></i></a>
+                                    <a class="blog-one__link" href="blog-post.html"><span>Read more</span> <i class="fas fa-long-arrow-alt-right"></i></a>
                                 </div><!-- /.blog-one__bottom -->
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
@@ -98,7 +98,7 @@
                                 <h3 class="blog-one__title"><a href="blog-post.html">Tips for the Security Regulators The ‘Inside Story’</a></h3><!-- /.blog-one__title -->
                                 <p class="blog-one__text">Miventore veritatis et quasi architec beat vitae dicta sunt explicabo nem enim cone quuntur magni dolores eos.</p><!-- /.blog-one__text -->
                                 <div class="blog-one__bottom">
-                                    <a class="blog-one__link" href="blog-post.html"><span>More Details</span> <i class="fas fa-long-arrow-alt-right"></i></a>
+                                    <a class="blog-one__link" href="blog-post.html"><span>Read more</span> <i class="fas fa-long-arrow-alt-right"></i></a>
                                 </div><!-- /.blog-one__bottom -->
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
@@ -116,7 +116,7 @@
                                 <h3 class="blog-one__title"><a href="blog-post.html">Tips for the Security Regulators The ‘Inside Story’</a></h3><!-- /.blog-one__title -->
                                 <p class="blog-one__text">Miventore veritatis et quasi architec beat vitae dicta sunt explicabo nem enim cone quuntur magni dolores eos.</p><!-- /.blog-one__text -->
                                 <div class="blog-one__bottom">
-                                    <a class="blog-one__link" href="blog-post.html"><span>More Details</span> <i class="fas fa-long-arrow-alt-right"></i></a>
+                                    <a class="blog-one__link" href="blog-post.html"><span>Read more</span> <i class="fas fa-long-arrow-alt-right"></i></a>
                                 </div><!-- /.blog-one__bottom -->
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
@@ -134,7 +134,7 @@
                                 <h3 class="blog-one__title"><a href="blog-post.html">Tips for the Security Regulators The ‘Inside Story’</a></h3><!-- /.blog-one__title -->
                                 <p class="blog-one__text">Miventore veritatis et quasi architec beat vitae dicta sunt explicabo nem enim cone quuntur magni dolores eos.</p><!-- /.blog-one__text -->
                                 <div class="blog-one__bottom">
-                                    <a class="blog-one__link" href="blog-post.html"><span>More Details</span> <i class="fas fa-long-arrow-alt-right"></i></a>
+                                    <a class="blog-one__link" href="blog-post.html"><span>Read more</span> <i class="fas fa-long-arrow-alt-right"></i></a>
                                 </div><!-- /.blog-one__bottom -->
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
@@ -152,7 +152,7 @@
                                 <h3 class="blog-one__title"><a href="blog-post.html">Tips for the Security Regulators The ‘Inside Story’</a></h3><!-- /.blog-one__title -->
                                 <p class="blog-one__text">Miventore veritatis et quasi architec beat vitae dicta sunt explicabo nem enim cone quuntur magni dolores eos.</p><!-- /.blog-one__text -->
                                 <div class="blog-one__bottom">
-                                    <a class="blog-one__link" href="blog-post.html"><span>More Details</span> <i class="fas fa-long-arrow-alt-right"></i></a>
+                                    <a class="blog-one__link" href="blog-post.html"><span>Read more</span> <i class="fas fa-long-arrow-alt-right"></i></a>
                                 </div><!-- /.blog-one__bottom -->
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
@@ -170,7 +170,7 @@
                                 <h3 class="blog-one__title"><a href="blog-post.html">Tips for the Security Regulators The ‘Inside Story’</a></h3><!-- /.blog-one__title -->
                                 <p class="blog-one__text">Miventore veritatis et quasi architec beat vitae dicta sunt explicabo nem enim cone quuntur magni dolores eos.</p><!-- /.blog-one__text -->
                                 <div class="blog-one__bottom">
-                                    <a class="blog-one__link" href="blog-post.html"><span>More Details</span> <i class="fas fa-long-arrow-alt-right"></i></a>
+                                    <a class="blog-one__link" href="blog-post.html"><span>Read more</span> <i class="fas fa-long-arrow-alt-right"></i></a>
                                 </div><!-- /.blog-one__bottom -->
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->

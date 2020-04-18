@@ -23,19 +23,29 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/style_lawyer.css">
 </head>
-
 <body>
     <div class="preloader"><span><img src="assets/images/resources/preloader.png" alt="Awesome Image" /></span></div><!-- /.preloader -->
     <div class="page-wrapper">
-        <div class="site-header__header-one-wrapper">
+
             <div class="topbar-one text-center"><strong>During COVID-19 we provide online consultations via chat.</strong> </div>
-            <header class="site-header site-header__header-one  ">
+            <!-- <div class="topbar-one dark">
+                <div class="container">
+                    <div class="topbar-two__left">
+                        <p>Employment, Personal Injury and Real Estate Lawyers NYC</p>
+                    </div>
+                    <div class="topbar-two__right">
+                        <a class="header-phone" href="tel:(888) 445-0234"><i class="fas fa-phone-alt"></i>Helpline: <span>(888) 445-0234</span></a>
+                    </div>
+                </div>
+            </div> -->
+
+            <header class="site-header site-header__header-one dark">
                 <nav class="navbar navbar-expand-lg navbar-light header-navigation stricky">
                     <div class="container clearfix">
                         <!-- Brand and toggle get grouped for better mobile display -->
                         <div class="logo-box">
                             <a class="navbar-brand" href="index.html">
-                                <img src="assets/images/resources/logo_white.png" class="main-logo" alt="Awesome Image" />
+                                <img src="assets/images/resources/logo_red.png" class="main-logo" alt="Awesome Image" />
                                 <img src="assets/images/resources/logo_red_small.png" class="main-logo mobile" alt="Awesome Image" />
                             </a>
                             <a class="header-phone" href="tel:(888) 445-0234"><i class="fas fa-phone-alt"></i> <span>(888) 445-0234</span></a>
@@ -67,12 +77,12 @@
                                     <a href="blog-grid.html">Press</a>
                                 </li>
                                 <li>
-                                    <a href="contact.php">Contact</a>
+                                    <a href="contact.html">Contact</a>
                                 </li>
                             </ul>
                         </div><!-- /.navbar-collapse -->
                         <div class="right-side-box">
-                            <a class="header-phone fixed" href="tel:(888) 445-0234"><i class="fas fa-phone-alt"></i>Helpline: <span>(888) 445-0234</span></a>
+                            <a href="tel:(888) 445-0234" class="thm-btn header-booking__btn">(888) 445-0234</a>
                             <!-- <a href="#" class="thm-btn header-booking__btn">book an appointment <i class="fas fa-long-arrow-alt-right"></i></a> -->
                         </div><!-- /.right-side-box -->
                     </div>

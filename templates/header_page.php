@@ -82,7 +82,7 @@
                             </ul>
                         </div><!-- /.navbar-collapse -->
                         <div class="right-side-box">
-                            <a class="header-phone fixed" href="tel:(888) 445-0234"><i class="fas fa-phone-alt"></i>Helpline: <span>(888) 445-0234</span></a>
+                            <a href="tel:(888) 445-0234" class="thm-btn header-booking__btn">(888) 445-0234</a>
                             <!-- <a href="#" class="thm-btn header-booking__btn">book an appointment <i class="fas fa-long-arrow-alt-right"></i></a> -->
                         </div><!-- /.right-side-box -->
                     </div>

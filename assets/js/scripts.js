@@ -253,6 +253,15 @@ n.isPlainObject(e)?s===!1&&t.removeAttr("style"):s!==!0&&t.removeClass(e),n.isFu
                 stricky.removeClass('stricky-fixed');
             }
         }
+        if ($('.stricky.original').length) {
+            var headerScrollPos = 100;
+            var stricky = $('.stricky.original');
+            if ($(window).scrollTop() > headerScrollPos) {
+                stricky.addClass('fixed');
+            } else if ($(this).scrollTop() <= headerScrollPos) {
+                stricky.removeClass('fixed');
+            }
+        }
     });
     if ($('.accrodion-grp').length) {
         var accrodionGrp = $('.accrodion-grp');

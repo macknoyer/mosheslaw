@@ -32,6 +32,48 @@
 		<section class="content-insideBlock">
 			<div class="container">
 				<div class="row">
+					<div class="col-md col-6 text-center">
+						<a class="sub-services" href="">
+							<div><i class="fas fa-car"></i></div>
+							<div>Car Accident</div>
+						</a>
+					</div>
+					<div class="col-md col-6 text-center">
+						<a class="sub-services" href="">
+							<div><i class="fas fa-hard-hat"></i></div>
+							<div>Construction Accident</div>
+						</a>
+					</div>
+					<div class="col-md col-6 text-center">
+						<a class="sub-services" href="">
+							<div><i class="fas fa-ambulance"></i></div>
+							<div> Medical Malpractice</div>
+						</a>
+					</div>
+					<div class="col-md col-6 text-center">
+						<a class="sub-services" href="">
+							<div><i class="fas fa-user-injured"></i></div>
+							<div>Work Injury</div>
+						</a>
+					</div>
+					<div class="col-md col-6 text-center">
+						<a class="sub-services" href="">
+							<div><i class="fas fa-procedures"></i></div>
+							<div>Slip and Fall Accidents</div>
+						</a>
+					</div>
+					<div class="col-md col-6 text-center">
+						<a class="sub-services" href="">
+							<div><i class="fas fa-motorcycle"></i></div>
+							<div>Motorcycle Accident</div>
+						</a>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="content-insideBlock">
+			<div class="container">
+				<div class="row">
 					<div class="col-12 content-insideSmall">
 						<div class="block-title text-center">
 							<p class="block-title__text-two">IMPORTANT: Undocumented immigrant laborers who have been injured on a construction site are also entitled to recover compensation for any construction accident injury. It is common practice for employers to threaten immigrant workers with deportation if they file injury claims. Do not let anyone intimidate you before speaking with a construction site accident lawyer in NYC.</p><!-- /.block-title__text-one -->
@@ -78,7 +120,6 @@
 				<form class="red_form" action="">
 					<div class="cta-two__content">
 						<h3 class="cta-two__title">Get a Free Consultation From Expert Lawyers!</h3><!-- /.cta-two__title -->
-						<p class="cta-two__text">Stay in Touch and enim adminim veniam quis nostrud exercitation ullamco quasi architecto</p><!-- /.cta-two__text -->
 							<div class="row">
 								<div class="col-md">
 									<div class="case-form-one__field red">
@@ -92,7 +133,12 @@
                         		</div>
 								<div class="col-md">
 									<div class="case-form-one__field red">
-											<a href="#" class="thm-btn cta-two__btn">get in touch <i class="fa fa-long-arrow-alt-right"></i></a>
+		                                <input type="text" name="phone" placeholder="Email">
+		                            </div>
+                        		</div>
+								<div class="col-md">
+									<div class="case-form-one__field red">
+											<a href="#" class="thm-btn cta-two__btn">Get a Free Call Back<i class="fa fa-long-arrow-alt-right"></i></a>
 		                            </div>
                         		</div>
 							</div>
@@ -204,81 +250,76 @@
             </div><!-- /.container -->
         </section><!-- /.team-one -->
 
-        <section class="testimonials-one content-wrapper">
+        <section class="testimonials-one">
             <div class="container">
-                <h3 class="testimonials-one__title">Words From Clients</h3><!-- /.testimonials-one__title -->
-                <div class="inner-container">
-                    <div class="thm__owl-carousel testimonials-one__carousel owl-carousel owl-theme" data-options='{"loop": true, "margin": 0, "nav": false, "dots": true, "autoWidth": false, "autoplay": true, "smartSpeed": 700, "autoplayTimeout": 5000, "autoplayHoverPause": true, "responsive": {"0": {"items": 1 }, "480": {"items": 1 }, "600": {"items": 1 }, "991": {"items": 1 }, "1000": {"items": 1 }, "1200": {"items": 1 } } }'>
-                        <div class="item">
-                            <div class="testimonials-one__single">
+                <h3 class="testimonials-one__title">Testimonials and reviews</h3><!-- /.testimonials-one__title -->
+                <div class="row">
+                    <div class="col-md-4 testimonials-wrapper">
+                        <div class="inner-container">
+                            <div class="item">
+                                <div class="testimonials-one__single">
+                                    <div class="testimonials-container">
+                                        <a target="_blank" href="https://www.yelp.com/biz/law-office-of-yuriy-moshes-pc-brooklyn-2" class="testimonials-logo"><img src="assets/images/yelp.png" alt="yelp"></a>
+                                    </div>
+                                    <div class="testimonials-separator">
+                                        33+ reviews
+                                    </div>
                                 <i class="opklim-qoute-1-1 testimonials-one__icon"></i>
-                                <p class="testimonials-one__text">Ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt labore etuy dolore magna aduras minim veniam, quis nostrud exercitation ullamco enim ad minim veniam quis nostrud exercitation ullamco duis autey irure dolor in reprehenderit in voluptate velit esse cillum dolore.</p><!-- /.testimonials-one__text -->
-                                <div class="testimonials-one__info">
-                                    <div class="testimonials-one__info-image">
-                                        <div class="testimonials-one__info-image-inner">
-                                            <img src="assets/images/resources/testi-1-1.jpg" alt="Awesome Image" />
-                                        </div><!-- /.testimonials-one__info-image-inner -->
-                                    </div><!-- /.testimonials-one__info-image -->
-                                    <div class="testimonials-one__info-content">
-                                        <h4 class="testimonials-one__info-name">John Benson</h4><!-- /.testimonials-one__info-name -->
-                                        <p class="testimonials-one__info-designation">Florida, USA</p><!-- /.testimonials-one__info-designation -->
-                                    </div><!-- /.testimonials-one__info-content -->
-                                </div><!-- /.testimonials-one__info -->
-                            </div><!-- /.testimonials-one__single -->
-                        </div><!-- /.item -->
-                        <div class="item">
-                            <div class="testimonials-one__single">
+                                    <!-- <i class="opklim-qoute-1-1 testimonials-one__icon"></i> -->
+                                    <p class="testimonials-one__text">Thanks to the Professionalism and Outsanding Customer Sevice demonstrated by The Law Office of Yuiry Moshes.  I've completed many Real Estate Transactions in my years as a NYS Licensed Salesperson and Real Estate Broker.  I congratulate your organization for the attention to detail and integrity you company displays. </p><!-- /.testimonials-one__text -->
+                                    <div class="testimonials-one__info">
+                                        <div class="testimonials-one__info-content">
+                                            <h4 class="testimonials-one__info-name">Greg D.</h4><!-- /.testimonials-one__info-name -->
+                                        </div><!-- /.testimonials-one__info-content -->
+                                    </div><!-- /.testimonials-one__info -->
+                                </div><!-- /.testimonials-one__single -->
+                            </div><!-- /.item -->
+                                
+                        </div>
+                    </div>
+                    <div class="col-md-4 testimonials-wrapper">
+                        <div class="inner-container">
+                            <div class="item">
+                                <div class="testimonials-one__single">
+                                    <div class="testimonials-container">
+                                        <a target="_blank" href="https://www.google.com/maps/place/Law+Office+of+Yuriy+Moshes+PC/@40.577826,-73.961823,16z/data=!4m13!1m7!3m6!1s0x89c244419848a3dd:0xb7ad16b5905031b2!2s517+Brighton+Beach+Ave+2nd+Floor,+Brooklyn,+NY+11235!3b1!8m2!3d40.5778259!4d-73.9618229!3m4!1s0x89c244c1bda46a5f:0xc04fd9f1eb742ae4!8m2!3d40.577825!4d-73.96185?hl=en" class="testimonials-logo"><img src="assets/images/google.png" alt="google"></a>
+                                    </div>
+                                    <div class="testimonials-separator">
+                                        155+ reviews
+                                    </div>
                                 <i class="opklim-qoute-1-1 testimonials-one__icon"></i>
-                                <p class="testimonials-one__text">Ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt labore etuy dolore magna aduras minim veniam, quis nostrud exercitation ullamco enim ad minim veniam quis nostrud exercitation ullamco duis autey irure dolor in reprehenderit in voluptate velit esse cillum dolore.</p><!-- /.testimonials-one__text -->
-                                <div class="testimonials-one__info">
-                                    <div class="testimonials-one__info-image">
-                                        <div class="testimonials-one__info-image-inner">
-                                            <img src="assets/images/resources/testi-1-1.jpg" alt="Awesome Image" />
-                                        </div><!-- /.testimonials-one__info-image-inner -->
-                                    </div><!-- /.testimonials-one__info-image -->
-                                    <div class="testimonials-one__info-content">
-                                        <h4 class="testimonials-one__info-name">John Benson</h4><!-- /.testimonials-one__info-name -->
-                                        <p class="testimonials-one__info-designation">Florida, USA</p><!-- /.testimonials-one__info-designation -->
-                                    </div><!-- /.testimonials-one__info-content -->
-                                </div><!-- /.testimonials-one__info -->
-                            </div><!-- /.testimonials-one__single -->
-                        </div><!-- /.item -->
-                        <div class="item">
-                            <div class="testimonials-one__single">
+                                    <p class="testimonials-one__text"> We had a great experience with the office of Yuriy Moshes during the purchase of our home. Mr. Moshes or his colleagues were quick to respond to any questions or concerns during the process. I would not hesitate to recommend them to others. Thanks a lot! </p><!-- /.testimonials-one__text -->
+                                    <div class="testimonials-one__info">
+                                        <div class="testimonials-one__info-content">
+                                            <h4 class="testimonials-one__info-name">Yelena Gremban</h4><!-- /.testimonials-one__info-name -->
+                                        </div><!-- /.testimonials-one__info-content -->
+                                    </div><!-- /.testimonials-one__info -->
+                                </div><!-- /.testimonials-one__single -->
+                            </div><!-- /.item -->
+                        </div>
+                    </div>
+                    <div class="col-md-4 testimonials-wrapper">
+                        <div class="inner-container">
+                            <div class="item">
+                                <div class="testimonials-one__single">
+                                    <div class="testimonials-container">
+                                        <a target="_blank" href="https://www.avvo.com/attorneys/11235-ny-yuriy-moshes-3804418.html" class="testimonials-logo"><img src="assets/images/avvo.png" alt="avvo"></a>
+                                    </div>
+                                    <div class="testimonials-separator">
+                                        20+ reviews
+                                    </div>
                                 <i class="opklim-qoute-1-1 testimonials-one__icon"></i>
-                                <p class="testimonials-one__text">Ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt labore etuy dolore magna aduras minim veniam, quis nostrud exercitation ullamco enim ad minim veniam quis nostrud exercitation ullamco duis autey irure dolor in reprehenderit in voluptate velit esse cillum dolore.</p><!-- /.testimonials-one__text -->
-                                <div class="testimonials-one__info">
-                                    <div class="testimonials-one__info-image">
-                                        <div class="testimonials-one__info-image-inner">
-                                            <img src="assets/images/resources/testi-1-1.jpg" alt="Awesome Image" />
-                                        </div><!-- /.testimonials-one__info-image-inner -->
-                                    </div><!-- /.testimonials-one__info-image -->
-                                    <div class="testimonials-one__info-content">
-                                        <h4 class="testimonials-one__info-name">John Benson</h4><!-- /.testimonials-one__info-name -->
-                                        <p class="testimonials-one__info-designation">Florida, USA</p><!-- /.testimonials-one__info-designation -->
-                                    </div><!-- /.testimonials-one__info-content -->
-                                </div><!-- /.testimonials-one__info -->
-                            </div><!-- /.testimonials-one__single -->
-                        </div><!-- /.item -->
-                        <div class="item">
-                            <div class="testimonials-one__single">
-                                <i class="opklim-qoute-1-1 testimonials-one__icon"></i>
-                                <p class="testimonials-one__text">Ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt labore etuy dolore magna aduras minim veniam, quis nostrud exercitation ullamco enim ad minim veniam quis nostrud exercitation ullamco duis autey irure dolor in reprehenderit in voluptate velit esse cillum dolore.</p><!-- /.testimonials-one__text -->
-                                <div class="testimonials-one__info">
-                                    <div class="testimonials-one__info-image">
-                                        <div class="testimonials-one__info-image-inner">
-                                            <img src="assets/images/resources/testi-1-1.jpg" alt="Awesome Image" />
-                                        </div><!-- /.testimonials-one__info-image-inner -->
-                                    </div><!-- /.testimonials-one__info-image -->
-                                    <div class="testimonials-one__info-content">
-                                        <h4 class="testimonials-one__info-name">John Benson</h4><!-- /.testimonials-one__info-name -->
-                                        <p class="testimonials-one__info-designation">Florida, USA</p><!-- /.testimonials-one__info-designation -->
-                                    </div><!-- /.testimonials-one__info-content -->
-                                </div><!-- /.testimonials-one__info -->
-                            </div><!-- /.testimonials-one__single -->
-                        </div><!-- /.item -->
-                    </div><!-- /.testimonials-one__carousel owl-carousel owl-theme -->
-                </div><!-- /.inner-container -->
+                                    <p class="testimonials-one__text">Hired Yuri to help me through coop purchase process. Yuriy and his staff answered all my questions promptly, I've had attorneys in the past that once paid would take their time and de prioritize your mails, etc..Not the case here. My initial purchase wound up folding week before scheduled closing date due to seller negligence. Almost a year later, I received same level of effort from Yuriy second time around, closed, and am very happy with professionalism and expertise provided. </p><!-- /.testimonials-one__text -->
+                                    <div class="testimonials-one__info">
+                                        <div class="testimonials-one__info-content">
+                                            <h4 class="testimonials-one__info-name">Vladimir</h4><!-- /.testimonials-one__info-name -->
+                                        </div><!-- /.testimonials-one__info-content -->
+                                    </div><!-- /.testimonials-one__info -->
+                                </div><!-- /.testimonials-one__single -->
+                            </div><!-- /.item -->
+                        </div>
+                    </div>
+                </div>
             </div><!-- /.container -->
         </section><!-- /.testimonials-one -->
 		<section class="content-wrapper">
@@ -387,4 +428,4 @@
                 </div><!-- /.row -->
             </div><!-- /.container-fluid -->
         </section>		
-<?php include('templates/footer.php'); ?>
+<?php include('templates/footer_page.php'); ?>
