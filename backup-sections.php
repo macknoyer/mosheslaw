@@ -508,3 +508,33 @@
                 </div><!-- /.item -->
             </div><!-- /.slider-one__carousel -->
         </section><!-- /.slider-one -->
+
+
+        <!-- maps -->
+        <section>
+            <div class="contatainer-fluid">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="map-container">
+                        <div class="map"><img src="assets/images/map.png" alt=""></div>
+                        <div class="map-title">517 Brighton Beach Avenue, 2nd Floor <br>Brooklyn, New York 11235</div>
+                        <div class="map-phone"><a href="tel:(888) 445-0234">(888) 445-0234</a></div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="map-container">
+                        <div class="map"><img src="assets/images/map.png" alt=""></div>
+                        <div class="map-title">111 Northfield Avenue, Suite 208A <br>West Orange, New Jersey, 07052</div>
+                        <div class="map-phone"><a href="tel:(888) 445-0234">(888) 445-0234</a></div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="map-container">
+                        <div class="map"><img src="assets/images/map.png" alt=""></div>
+                        <div class="map-title">322 W. 48th Street, 6th Floor <br>New York, NY, 10036</div>
+                        <div class="map-phone"><a href="tel:(888) 445-0234">(888) 445-0234</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>

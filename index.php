@@ -223,7 +223,7 @@
             <div class="container">
                 <h3 class="testimonials-one__title">Testimonials and reviews</h3><!-- /.testimonials-one__title -->
                 <div class="row">
-                    <div class="col-md-4 testimonials-wrapper">
+                    <div class="col-lg-4 testimonials-wrapper">
                         <div class="inner-container">
                             <div class="item">
                                 <div class="testimonials-one__single">
@@ -246,7 +246,7 @@
                                 
                         </div>
                     </div>
-                    <div class="col-md-4 testimonials-wrapper">
+                    <div class="col-lg-4 testimonials-wrapper">
                         <div class="inner-container">
                             <div class="item">
                                 <div class="testimonials-one__single">
@@ -267,7 +267,7 @@
                             </div><!-- /.item -->
                         </div>
                     </div>
-                    <div class="col-md-4 testimonials-wrapper">
+                    <div class="col-lg-4 testimonials-wrapper">
                         <div class="inner-container">
                             <div class="item">
                                 <div class="testimonials-one__single">

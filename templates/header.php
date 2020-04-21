@@ -12,11 +12,11 @@
     <link rel="manifest" href="assets/images/favicon/site.webmanifest">
     <!-- For Window Tab Color -->
     <!-- Chrome, Firefox OS and Opera -->
-    <meta name="theme-color" content="#e0a965">
+    <meta name="theme-color" content="#c41230">
     <!-- Windows Phone -->
-    <meta name="msapplication-navbutton-color" content="#e0a965">
+    <meta name="msapplication-navbutton-color" content="#c41230">
     <!-- iOS Safari -->
-    <meta name="apple-mobile-web-app-status-bar-style" content="#e0a965">
+    <meta name="apple-mobile-web-app-status-bar-style" content="#c41230">
     <link href="https://fonts.googleapis.com/css?family=Oxygen:300,400,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/plugins/opklim-icons/style.css">
     <link rel="stylesheet" href="assets/plugins/fontawesome-5/css/all.min.css">
@@ -40,7 +40,7 @@
             </div> -->
 
             <header class="site-header site-header__header-one dark">
-                <nav class="navbar navbar-expand-lg navbar-light header-navigation stricky">
+                <div class="navbar navbar-expand-lg navbar-light header-navigation stricky">
                     <div class="container clearfix">
                         <!-- Brand and toggle get grouped for better mobile display -->
                         <div class="logo-box">
@@ -48,13 +48,13 @@
                                 <img src="assets/images/resources/logo_red.png" class="main-logo" alt="Awesome Image" />
                                 <img src="assets/images/resources/logo_red_small.png" class="main-logo mobile" alt="Awesome Image" />
                             </a>
-                            <a class="header-phone" href="tel:(888) 445-0234"><i class="fas fa-phone-alt"></i> <span>(888) 445-0234</span></a>
-                            <button class="menu-toggler" data-target=".main-navigation">
+                            <a class="header-phone" href="tel:(888) 445-0234"><span>(888) 445-0234</span></a>
+                            <a href="#my-menu" class="menu-toggler">
                                 <span class="fa fa-bars"></span>
-                            </button>
+                            </a>
                         </div><!-- /.logo-box -->
                         <!-- Collect the nav links, forms, and other content for toggling -->
-                        <div class="main-navigation">
+                        <nav id="my-menu" class="main-navigation">
                             <ul class=" navigation-box ">
                                 <li class="current">
                                     <a href="index.html">Employment Law</a>
@@ -80,12 +80,12 @@
                                     <a href="contact.html">Contact</a>
                                 </li>
                             </ul>
-                        </div><!-- /.navbar-collapse -->
+                        </nav><!-- /.navbar-collapse -->
                         <div class="right-side-box">
                             <a href="tel:(888) 445-0234" class="thm-btn header-booking__btn">(888) 445-0234</a>
                             <!-- <a href="#" class="thm-btn header-booking__btn">book an appointment <i class="fas fa-long-arrow-alt-right"></i></a> -->
                         </div><!-- /.right-side-box -->
                     </div>
                     <!-- /.container -->
-                </nav>
+                </div>
             </header><!-- /.site-header -->
