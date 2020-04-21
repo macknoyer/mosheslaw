@@ -501,7 +501,37 @@ section.content-insideBlock p a:hover {
 .cta-two__title {
 	margin-bottom: 20px;
 }
-
+#searchform{
+	background: none;
+    border: none;
+    font-size: 0;
+    width: 30px;
+    height: 30px;
+}
+#searchform input[type="text"]{
+	width: 91%;
+	border: 1px solid #ddd;
+	padding: 0 15px;
+	background: #fff;
+	color: #333;
+	height: 46px;
+	font-size: 14px;
+	margin-right: 10px;
+}
+#searchform #searchsubmit{
+	border: none;
+	height: 46px;
+	background-color: #c41230;
+	color: #fff;
+	padding: 0px 15px;
+	font-weight: bold;
+	-webkit-transition: all .4s ease;
+	transition: all .4s ease;	
+}
+#searchform #searchsubmit:hover {
+    background-color: #fff;
+    color: #333333;
+}
 /**********media********/
 
 
