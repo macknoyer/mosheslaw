@@ -647,6 +647,9 @@ section.content-insideBlock p a:hover {
 	}
 	.search-box-icon.mobile {
 		display: inline-block;
+		position: absolute; 
+		top: calc(50% - 16px);
+		right: 54px;
 	}
 
 	.logo-box .header-phone {

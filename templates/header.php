@@ -43,7 +43,7 @@
                 <div class="navbar navbar-expand-lg navbar-light header-navigation stricky">
                     <div class="container clearfix">
                         <!-- Brand and toggle get grouped for better mobile display -->
-                        <span style="position: absolute; top: calc(50% - 16px);right: 54px;" class="search-box-icon mobile"></span>
+                        <span class="search-box-icon mobile"></span>
                         <div class="logo-box">
                             <a class="navbar-brand" href="index.html">
                                 <img src="assets/images/resources/logo_red.png" class="main-logo" alt="Awesome Image" />
