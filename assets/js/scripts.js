@@ -66,7 +66,7 @@ document.addEventListener(
     "DOMContentLoaded", () => {
         const menu = new MmenuLight(
             document.querySelector( "#my-menu" ),
-            "(max-width: 992px)"
+            "(max-width: 1199px)"
         );
 
         const navigator = menu.navigation();
@@ -80,6 +80,10 @@ document.addEventListener(
     }
 );
 (function($) {
+	$('.search-box-icon').on('click', function() {
+		$('.search-box-icon').toggleClass('close-it');
+		$('.search-box').toggleClass('open');
+	});
     "use strict";
 
 

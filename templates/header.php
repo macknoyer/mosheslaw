@@ -43,6 +43,7 @@
                 <div class="navbar navbar-expand-lg navbar-light header-navigation stricky">
                     <div class="container clearfix">
                         <!-- Brand and toggle get grouped for better mobile display -->
+                        <span style="position: absolute; top: calc(50% - 16px);right: 54px;" class="search-box-icon mobile"></span>
                         <div class="logo-box">
                             <a class="navbar-brand" href="index.html">
                                 <img src="assets/images/resources/logo_red.png" class="main-logo" alt="Awesome Image" />
@@ -79,8 +80,17 @@
                                 <li>
                                     <a href="contact.html">Contact</a>
                                 </li>
+                                <li>
+                                    <span class="search-box-icon"></span>
+                                </li>
                             </ul>
                         </nav><!-- /.navbar-collapse -->
+                        <div class="search-box">
+                            <form class="search-box-container">
+                                <input type="text" class="search-box-input" placeholder="Search for">
+                                <button type="submit" class="search-box-button">Search</button>
+                            </form>
+                        </div>
                         <div class="right-side-box">
                             <a href="tel:(888) 445-0234" class="thm-btn header-booking__btn">(888) 445-0234</a>
                             <!-- <a href="#" class="thm-btn header-booking__btn">book an appointment <i class="fas fa-long-arrow-alt-right"></i></a> -->
