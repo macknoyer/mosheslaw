@@ -3,6 +3,10 @@ body {
 	overflow-x: hidden;
 	line-height: 1.45;
 }
+.case-form-two {
+	padding-right: 0;
+	padding-left: 0;
+}
 .case-form-two .case-form-one__field > i::placeholder, 
 .case-form-two .case-form-one__field .bootstrap-select > .dropdown-toggle::placeholder, 
 .case-form-two .case-form-one__field input[type="text"]::placeholder, 
@@ -273,7 +277,7 @@ a:hover,.press-text a:hover {
 	margin-bottom: 50px;
 }
 .map {
-	height: 290px;
+	height: 240px;
 	overflow: hidden;
 	-webkit-box-shadow: 0px 6px 13px 0px RGBA(0, 0, 0, 0.06);
 	box-shadow: 0px 6px 13px 0px RGBA(0, 0, 0, 0.06);
@@ -693,6 +697,9 @@ section.content-insideBlock p a:hover {
 	}
 }
 @media (max-width: 991px) {
+	#searchform input[type="text"] {
+		width: 86%;
+	}
 	.scroll-to-top {
 		bottom: 100px;
 	}
@@ -794,6 +801,10 @@ section.content-insideBlock p a:hover {
 	}
 }
 @media (max-width: 768px) {
+
+	#searchform input[type="text"] {
+		width: 81%;
+	}
 	.search-box-input {
 		width: 60%;
 	}
@@ -825,6 +836,9 @@ section.content-insideBlock p a:hover {
 
 @media (max-width: 560px) {
 
+	#searchform input[type="text"] {
+		width: 69%;
+	}
 	.footer__menu-list li{
 		padding: 15px 20px;
 	}
