@@ -2,6 +2,25 @@
             <h2>Hello</h2>
             <p>You are awesome.</p>
         </div> -->
+
+        <div class="footer__menu">
+            <ul class="footer__menu-list">
+                <li>
+                    <a href="#">
+                        <i class="far fa-comment-dots"></i>
+                        <span>chat</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <i class="far fa-envelope"></i>
+                        <span>email</span>
+                    </a>
+                </li>
+                <li><a href="#"><i class="fas fa-phone-alt"></i><span>call</span></a></li>
+                <li><a href="#"><i class="fas fa-map-marker-alt"></i><span>map</span></a></li>
+            </ul>
+        </div>
         <footer class="site-footer content-wrapper">
             <div class="container">
                 <div class="row">

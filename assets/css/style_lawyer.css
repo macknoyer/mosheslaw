@@ -35,6 +35,38 @@ a:hover,.press-text a:hover {
 	color:#aaaaaa;
 	font-weight: bold;
 }
+.footer__menu {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	z-index: 3;
+	display: none;
+	background: #333;
+}
+
+.footer__menu-list {
+	display: flex;
+	justify-content: center;
+	padding: 0;
+	margin: 0;
+}
+.footer__menu-list li{
+	padding: 15px 40px;
+	display: inline-block;
+	list-style: none;
+	text-align: center;
+}
+.footer__menu-list li a{
+	color:#fff;
+	font-size: 18px;
+}
+.footer__menu-list li a span{
+	color:#fff;
+	font-size: 12px;
+	text-transform: uppercase;
+	display: block;
+	margin-top: 5px;
+}
 .footer-widget__logo img{
 	width: 300px;
 }
@@ -245,6 +277,9 @@ a:hover,.press-text a:hover {
 	overflow: hidden;
 	-webkit-box-shadow: 0px 6px 13px 0px RGBA(0, 0, 0, 0.06);
 	box-shadow: 0px 6px 13px 0px RGBA(0, 0, 0, 0.06);
+}
+.map img {
+	width: 100%;
 }
 .map-title {
 	margin: 20px 0;
@@ -655,6 +690,12 @@ section.content-insideBlock p a:hover {
 	}
 }
 @media (max-width: 991px) {
+	.scroll-to-top {
+		bottom: 100px;
+	}
+	.footer__menu {
+		display: block;
+	}
 	.case-two__image {
 		z-index: 2;
 	}
@@ -780,6 +821,10 @@ section.content-insideBlock p a:hover {
 }
 
 @media (max-width: 560px) {
+
+	.footer__menu-list li{
+		padding: 15px 20px;
+	}
 		.header-phone span {
 			font-size: 14px;
 			margin-left: 0;
