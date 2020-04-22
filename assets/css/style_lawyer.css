@@ -501,6 +501,9 @@ section.content-insideBlock p a:hover {
 .cta-two__title {
 	margin-bottom: 20px;
 }
+#searchform {
+	margin-bottom: 40px;
+}
 #searchform input[type="text"]{
 	width: 91%;
 	border: 1px solid #ddd;
@@ -526,7 +529,9 @@ section.content-insideBlock p a:hover {
     color: #333333;
 
 }
-
+#searchform label {
+	display: none;
+}
 .search-box {
 	width: 0;
 	z-index: 2;
