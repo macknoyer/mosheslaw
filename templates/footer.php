@@ -17,7 +17,7 @@
                         <span>email</span>
                     </a>
                 </li>
-                <li><a href="#"><i class="fas fa-phone-alt"></i><span>call</span></a></li>
+                <li><a href="#"><i class="fas fa-mobile-alt"></i><span>call</span></a></li>
                 <li><a href="#"><i class="fas fa-map-marker-alt"></i><span>map</span></a></li>
             </ul>
         </div>
