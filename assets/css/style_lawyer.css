@@ -376,6 +376,9 @@ a:hover,.press-text a:hover {
     margin-top: 50px;
     margin-bottom: 20px;	
 }
+.content-insideSmall .block-title__text-two {
+    display: none;
+}
 .block-title__text-two:after {
 	display: none;
 }
