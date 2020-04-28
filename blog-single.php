@@ -343,7 +343,6 @@
                             <div class="faq-one__inner">
                                 <div class="block-title">
                                     <h2 class="block-title__title">Read Core FAQ’s</h2><!-- /.block-title__title -->
-                                    <p class="block-title__text-two">Proident sunt culpa officia deserunt mollit animd laborum perspicia <br> natus error voluptatem qui acusantium doloremque laudan.</p><!-- /.block-title__text-two -->
                                 </div><!-- /.block-title -->
                                 <div class="accrodion-grp faq-one__accrodion" data-grp-name="faq-one__accrodion">
                                     <div class="accrodion active">

@@ -41,34 +41,16 @@
         </section><!-- /.about-one -->
         <section class="brands">
             <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-sm justify-content-center d-flex align-items-center">
-                        <img class="img-fluid brand-img" src="assets/images/brand/featuredin4.png" alt="">
-                    </div>
-                    <div class="col-sm justify-content-center d-flex align-items-center">
-                        <img class="img-fluid brand-img" src="assets/images/brand/nolo-logo-e1516079824580.png" alt="">
-                    </div>
-                    <div class="col-sm justify-content-center d-flex align-items-center">
-                        <img class="img-fluid brand-img" src="assets/images/brand/law_360.png" alt="">
-                    </div>
-                    <div class="col-sm justify-content-center d-flex align-items-center">
-                        <img class="img-fluid brand-img" src="assets/images/brand/featuredin1.png" alt="">
-                    </div>
-                    <div class="col-sm justify-content-center d-flex align-items-center">
-                        <img class="img-fluid brand-img" src="assets/images/brand/realtor_logo.svg" alt="">
-                    </div>
-                    <div class="col-sm justify-content-center d-flex align-items-center">
-                        <img class="img-fluid brand-img" src="assets/images/brand/blf.png" alt="">
-                    </div>
-                    <div class="col-sm justify-content-center d-flex align-items-center">
-                        <img class="img-fluid brand-img" src="assets/images/brand/BDC.svg" alt="">
-                    </div>
-                    <div class="col-sm justify-content-center d-flex align-items-center">
-                        <img class="img-fluid brand-img" src="assets/images/brand/1010WINS-e1516080014979.png" alt="">
-                    </div>
-                    <div class="col-sm justify-content-center d-flex align-items-center">
-                        <img class="img-fluid brand-img" src="assets/images/brand/New_York_Post_logo.png" alt="">
-                    </div>
+                <div class="d-flex align-items-center justify-content-center">
+                    <div class="brand-img"><img src="assets/images/brand/featuredin4.png" alt=""></div>
+                    <div class="brand-img"><img src="assets/images/brand/nolo-logo-e1516079824580.png" alt=""></div>
+                    <div class="brand-img"><img src="assets/images/brand/law_360.png" alt=""></div>
+                    <div class="brand-img"><img src="assets/images/brand/featuredin1.png" alt=""></div>
+                    <div class="brand-img"><img src="assets/images/brand/realtor_logo.svg" alt=""></div>
+                    <div class="brand-img"><img src="assets/images/brand/blf.png" alt=""></div>
+                    <div class="brand-img"><img src="assets/images/brand/BDC.svg" alt=""></div>
+                    <div class="brand-img"><img src="assets/images/brand/1010WINS-e1516080014979.png" alt=""></div>
+                    <div class="brand-img"><img src="assets/images/brand/New_York_Post_logo.png" alt=""></div>
                 </div>
             </div>
         </section> 
