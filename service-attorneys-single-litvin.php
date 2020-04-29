@@ -2,7 +2,7 @@
 <?php include('templates/header_page.php'); ?>
 		<section class="inner-banner">
 			<div class="container">
-				<h2 class="inner-banner__title">Construction Accident Attorney NYC</h2><!-- /.inner-banner__title -->
+				<h2 class="inner-banner__title">Attorney Gennady Litvin</h2><!-- /.inner-banner__title -->
 				<ul class="list-unstyled thm-breadcrumb">
 					<li><a href="index.html">Home</a></li>
 					<li><a href="index.html">Attorneys</a></li>
@@ -14,7 +14,7 @@
 			<div class="container">
                 <div class="row">
                     <div class="col-md-7">
-                        <img src="assets/images/team/YM.jpg" alt="" class="img-fluid">
+                        <img src="assets/images/team/Kevin-Waszak-3.jpg" alt="" class="img-fluid">
                     </div>
                     <div class="col-md-5">
                         <div class="attorneys-contacts border-card">
