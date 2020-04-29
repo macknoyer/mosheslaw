@@ -366,8 +366,11 @@ a:hover,.press-text a:hover {
 	text-align: center;
 }
 .cta-two {    
-	padding: 50px 30px;
+	padding: 50px 15px;
 	margin: 30px 0;
+}
+.thm-btn {
+	padding: 12px 34.5px;
 }
 .cta-two__text {
 	margin-bottom: 10px;
