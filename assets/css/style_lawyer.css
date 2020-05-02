@@ -394,6 +394,9 @@ a:hover,.press-text a:hover {
 .brands {
 	margin-bottom: 100px;
 }
+.brands-page {
+	margin: 50px 0;
+}
 .blog-one {padding-bottom: 0;}
 .case-form-one__field textarea {padding-left: 0;}
 .logo-box .header-phone {display: none;}
