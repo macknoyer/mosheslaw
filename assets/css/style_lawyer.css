@@ -471,6 +471,7 @@ section.content-insideBlock p a:hover {
 }
 .team-one__image {
 	position: relative;
+	max-height: 376px;
 }
 .attorneys-contacts {
 	height: 100%;
