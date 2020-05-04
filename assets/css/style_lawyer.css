@@ -274,7 +274,8 @@ a:hover,.press-text a:hover {
 	color:#e0a965;
 }
 .faq-case-form {
-	background: none;
+	margin-top: 50px;
+	margin-bottom: 100px;	
 }
 
 .faq-case-form.single .faq-one{
@@ -283,6 +284,10 @@ a:hover,.press-text a:hover {
 }
 .faq-case-form.single .faq-one .faq-one__inner{
 	max-width: 100%;
+}
+.faq-one__inner {
+	padding-bottom: 80px;
+	padding-top: 80px;
 }
 .faq-one {
 	background: none;
