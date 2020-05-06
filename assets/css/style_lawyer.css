@@ -145,7 +145,8 @@ a:hover,.press-text a:hover {
 	font-size: 28px;
 	color:#c41230;
 }
-.contact-one__form .block-title__text-two,.contact-one__info .block-title__text-two{
+.contact-one__form .block-title__text-two,
+.contact-one__info .block-title__text-two{
 	margin-top: 20px;
 }
 .contact-one__info-social {
@@ -191,7 +192,8 @@ a:hover,.press-text a:hover {
 	color: #333;
 	background: none;
 }
-.site-header__header-one.dark .header-navigation ul.navigation-box > li > a,.topbar-one.dark .header-phone,
+.site-header__header-one.dark .header-navigation ul.navigation-box > li > a,
+.topbar-one.dark .header-phone,
 .site-header__header-one.dark .header-phone{
 	color: #333;
 
@@ -202,7 +204,8 @@ a:hover,.press-text a:hover {
 .stricked-menu {
 	background: #fff;
 }
-.site-header__header-one.dark .header-navigation ul.navigation-box > li.current > a,.site-header__header-one.dark .header-navigation ul.navigation-box > li:hover > a {
+.site-header__header-one.dark .header-navigation ul.navigation-box > li.current > a,
+.site-header__header-one.dark .header-navigation ul.navigation-box > li:hover > a {
 		color: #c41230;
 }
 .stricked-menu.stricky-fixed .header-phone.fixed {
@@ -275,7 +278,12 @@ a:hover,.press-text a:hover {
 }
 .faq-case-form {
 	margin-top: 50px;
-	margin-bottom: 100px;	
+	margin-bottom: 100px;
+	padding: 50px;
+	background: rgb(2,0,2);
+	background: -webkit-linear-gradient(left, rgba(2,0,36,0) 0%, rgba(43,47,57,0.2) 100%);
+	background: -o-linear-gradient(left, rgba(2,0,36,0) 0%, rgba(43,47,57,0.2) 100%);
+	background: linear-gradient(to right, rgba(2,0,36,0) 0%, rgba(43,47,57,0.2) 100%);	x
 }
 
 .faq-case-form.single .faq-one{
@@ -836,7 +844,6 @@ section.content-insideBlock p a:hover {
 		font-size: 12px;
 		margin-left: 10px;
     	margin-right: 10px;
-	}
 	}
 	.topbar-one {
 		display: none;
