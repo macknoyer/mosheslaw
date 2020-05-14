@@ -865,6 +865,9 @@ section.content-insideBlock p a:hover {
 		font-weight: bold;
 		color:#333;
 	}
+	.h4,h4 {
+		font-size: 18px;
+	}
 	.block-title__title,.mailchimp-one__title {
 		font-size: 22px;
 	}
