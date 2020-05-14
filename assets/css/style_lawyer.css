@@ -2,6 +2,7 @@ body {
 	min-width: 320px;
 	overflow-x: hidden;
 	line-height: 1.45;
+	color:#333;
 }
 .case-form-two {
 	padding-right: 0;
@@ -79,6 +80,9 @@ a:hover,.press-text a:hover {
 .footer-widget__logo img{
 	width: 300px;
 }
+.case-two {
+	padding-top: 50px;
+}
 .case-two__box-links  {
 	margin-bottom: 20px;
 }
@@ -95,6 +99,9 @@ a:hover,.press-text a:hover {
 }
 .fact-one {
 	background-image: none;
+}
+.block-title {
+	margin-bottom: 25px;
 }
 .logo_red_small {
 	width: 85px;
@@ -115,6 +122,15 @@ a:hover,.press-text a:hover {
 	left: 47%;
 	z-index: 10;
 }
+.case-form-one__field {
+	margin-bottom: 15px;
+}
+.case-form-one .inner-container {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 25px;
+    padding-right: 25px;	
+}
 .case-form-one .inner-container.popup-form {
 	box-shadow: none;
 	padding: 0;
@@ -122,8 +138,9 @@ a:hover,.press-text a:hover {
 .case-form-one .inner-container.popup-form::before, .case-form-one .inner-container.popup-form::after {
 	display: none;
 }
-.cta-one,.inner-banner {background-image: url(../images/background/fact-bg-2-1.jpg);}
-.inner-banner {padding: 50px 0;}
+
+.cta-one {background-image: url('../images/background/fact-bg-2-1.jpg');}
+.inner-banner {background-image: none;padding: 50px 0;}
 .cta-one__phone a {font-size: 40px;}
 
 
@@ -239,7 +256,7 @@ a:hover,.press-text a:hover {
 	display: none;
 }
 .content-wrapper{
-	margin-top: 100px;
+	margin-top: 50px;
 }
 .content-insideBlock{
 	margin-top: 50px;
@@ -249,6 +266,12 @@ a:hover,.press-text a:hover {
 }
 .content-insideSmall:last-child {
 	margin-top: 0px;
+}
+.site-footer {
+	padding-top: 60px;
+}
+.about-one {
+	padding: 50px 0;
 }
 .marked-list li{
 	/*display: flex;*/
@@ -282,13 +305,10 @@ a:hover,.press-text a:hover {
 	color:#e0a965;
 }
 .faq-case-form {
-	margin-top: 50px;
-	margin-bottom: 100px;
-	padding: 50px;
-	background: rgb(2,0,2);
-	background: -webkit-linear-gradient(left, rgba(2,0,36,0) 0%, rgba(43,47,57,0.2) 100%);
-	background: -o-linear-gradient(left, rgba(2,0,36,0) 0%, rgba(43,47,57,0.2) 100%);
-	background: linear-gradient(to right, rgba(2,0,36,0) 0%, rgba(43,47,57,0.2) 100%);	x
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 0px;
+	background: none;
 }
 
 .faq-case-form.single .faq-one{
@@ -307,6 +327,10 @@ a:hover,.press-text a:hover {
 }
 .faq-one::before {
 	display: none;
+}
+.faq-one__accrodion .accrodion-title {
+	padding-bottom: 25px;
+	padding-top: 25px;
 }
 .map-container{
 	/*text-align: center;*/
@@ -331,7 +355,7 @@ a:hover,.press-text a:hover {
 	font-size: 16px;
 	color: #333;
 }
-.cta-one {margin-bottom: 100px; padding-bottom: 100px;}
+.cta-one {margin-bottom: 50px; padding-bottom: 50px;}
 .cta-one .container {max-width: 1170px;}
 .cta-one__contact {margin-bottom: 60px;}
 .testimonials-one__title {
@@ -410,10 +434,10 @@ a:hover,.press-text a:hover {
 .brand-img:last-child {margin-right: 0px;}
 .brand-img img{width: 100%;height: auto;}
 .brands {
-	margin-bottom: 100px;
+	margin-bottom: 50px;
 }
 .brands-page {
-	margin: 50px 0;
+	margin: 50px 0 0 0;
 }
 .blog-one {padding-bottom: 0;}
 .case-form-one__field textarea {padding-left: 0;}
@@ -422,8 +446,8 @@ a:hover,.press-text a:hover {
 
 
 .content-insideSmall .block-title__title {
-    margin-top: 50px;
-    margin-bottom: 20px;	
+    margin-top: 20px;
+    margin-bottom: 10px;	
 }
 .content-insideSmall .block-title__text-two {
     display: none;
@@ -549,7 +573,7 @@ section.content-insideBlock p a:hover {
 .case-two .block-title__title {
 	margin-top: 0;
 	margin-bottom: 0;
-	margin-left: 44px;
+	margin-left: 122px;
 }
 .blog-one__date {
 	right: auto;
@@ -692,9 +716,18 @@ section.content-insideBlock p a:hover {
 	font-size: 32px;
 }
 
+.case-two__image {
+	height: 500px;
+	overflow: hidden;
+}
+.case-two__box-single {
+	margin-bottom: 25px;
+}
 
-
-
+.case-form-two__inner {
+	padding-top: 50px;
+	padding-bottom: 25px;
+}
 /**********media********/
 
 
@@ -820,13 +853,17 @@ section.content-insideBlock p a:hover {
 		margin-bottom: 50px;
 	}
 	.case-two__box-single {
-		margin-bottom: 50px;
+		margin-bottom: 25px;
 	}
 	.about-one {
 		padding: 50px 0;
 	}
 	h1,.h1,.inner-banner__title {
 		font-size: 26px;
+	}
+	.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+		font-weight: bold;
+		color:#333;
 	}
 	.block-title__title,.mailchimp-one__title {
 		font-size: 22px;

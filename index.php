@@ -41,6 +41,9 @@
         </section><!-- /.about-one -->
         <section class="brands">
             <div class="container">
+                <div class="block-title">
+                    <h2 class="block-title__title text-center">As Seen On</h2><!-- /.block-title__title -->
+                </div><!-- /.case-two__top -->
                 <div class="d-flex align-items-center justify-content-center">
                     <div class="brand-img"><img src="assets/images/brand/featuredin4.png" alt=""></div>
                     <div class="brand-img"><img src="assets/images/brand/nolo-logo-e1516079824580.png" alt=""></div>
