@@ -35,6 +35,17 @@ a:hover,.press-text a:hover {
 	width: 250px;
 	/*height: 55px;*/
 }
+
+h1,.h1,.inner-banner__title {
+	font-size: 26px;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+	font-weight: bold;
+	color:#333;
+}
+.h4,h4 {
+	font-size: 18px;
+}
 .main-logo.mobile {
 	display: none;
 }
@@ -306,7 +317,7 @@ a:hover,.press-text a:hover {
 }
 .faq-case-form {
 	margin-top: 0px;
-	margin-bottom: 0px;
+	margin-bottom: 20px;
 	padding: 0px;
 	background: none;
 }
@@ -358,6 +369,9 @@ a:hover,.press-text a:hover {
 .cta-one {margin-bottom: 50px; padding-bottom: 50px;}
 .cta-one .container {max-width: 1170px;}
 .cta-one__contact {margin-bottom: 60px;}
+.testimonials-one {
+	margin-bottom: 40px;
+}
 .testimonials-one__title {
 	color:#333;
 	top: auto;
@@ -430,7 +444,7 @@ a:hover,.press-text a:hover {
 .red_form {
 	width: 100%;
 }
-.brand-img {width: 100px;margin-bottom: 20px; margin-right: 20px;}
+.brand-img {width: 100px;margin-bottom: 0px; margin-right: 20px;}
 .brand-img:last-child {margin-right: 0px;}
 .brand-img img{width: 100%;height: auto;}
 .brands {
@@ -602,7 +616,14 @@ section.content-insideBlock p a:hover {
 .post-pagination a.next,.post-pagination a.prev {
 	border: none;
 }
-
+.author-container {
+	padding-bottom: 15px;
+	margin-bottom: 20px;
+	border-bottom: 1px solid #ddd;
+	font-weight: bold;
+    text-transform: uppercase;
+    font-size: 14px;
+}
 /***********mmenu*************/
 .mm-spn.mm-spn--light {
 	background: #fff;
@@ -870,16 +891,6 @@ section.content-insideBlock p a:hover {
 	}
 	.about-one {
 		padding: 50px 0;
-	}
-	h1,.h1,.inner-banner__title {
-		font-size: 26px;
-	}
-	.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-		font-weight: bold;
-		color:#333;
-	}
-	.h4,h4 {
-		font-size: 18px;
 	}
 	.block-title__title,.mailchimp-one__title {
 		font-size: 22px;

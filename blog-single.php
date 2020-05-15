@@ -14,13 +14,20 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-12">
+						<div class="author-container">
+							Author <a href="#">Yuriy Moshes</a>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-12">
 						<p>Construction sites are among America’s most dangerous workplaces. The use of heavy machinery, hazardous substances, and even inexperienced crews contribute to skyscraper-high construction site injury rates every year. While many different private and governmental entities like the Occupational Safety and Health Administration monitor worksite safety, accidents happen often. Immediately after suffering a worksite injury, victims will experience more than just physical pain and agony.</p>
 					</div>
-					<div class="col-12">
+					<!-- <div class="col-12">
 						<div class="content-insideBlock">
                 			<iframe width="100%" height="600" src="https://www.youtube.com/embed/oa_rGPMh2s4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</div>
-					</div>
+					</div> -->
 				</div><!-- /.row -->
 			</div><!-- /.container -->
 		</section><!-- /.contact-one -->
