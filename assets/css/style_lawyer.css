@@ -595,6 +595,10 @@ section.content-insideBlock p a:hover {
 .blog-one__grid .blog-one__single {
 	margin-bottom: 40px;
 }
+.blog-one__grid .blog-one__image-inner {
+	width: 100%;
+    height: 240px;
+}
 .blog-one__date {
 	right: auto;
 	left: 0;
@@ -604,9 +608,13 @@ section.content-insideBlock p a:hover {
 	/*display: none;*/
 	max-height: 240px;
 	overflow: hidden;
+	position: relative;
 }
 .blog-one__image-inner > img {
+	width: 100%;
 	height: auto;
+	position: absolute;
+	top: calc(-50% - 133px);
 }
 .blog-one__link i,
 .blog-one__title a:hover
