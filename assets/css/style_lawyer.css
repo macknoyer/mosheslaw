@@ -604,6 +604,9 @@ section.content-insideBlock p a:hover {
 	left: 0;
 	background:#c41230;
 }
+.blog-one__image {
+	width: 100%;
+}
 .blog-one__image-inner {
 	/*display: none;*/
 	max-height: 240px;
