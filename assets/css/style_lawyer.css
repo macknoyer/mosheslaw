@@ -575,6 +575,12 @@ section.content-insideBlock p a:hover {
 	margin-bottom: 0;
 	margin-left: 122px;
 }
+.blog-one__grid {
+	padding: 50px 0;
+}
+.blog-one__grid .blog-one__single {
+	margin-bottom: 40px;
+}
 .blog-one__date {
 	right: auto;
 	left: 0;
@@ -582,13 +588,20 @@ section.content-insideBlock p a:hover {
 }
 .blog-one__image-inner {
 	/*display: none;*/
+	max-height: 240px;
+	overflow: hidden;
+}
+.blog-one__image-inner > img {
+	height: auto;
 }
 .blog-one__link i,
 .blog-one__title a:hover
  {
 	color:#c41230;
 }
-
+.post-pagination a.next,.post-pagination a.prev {
+	border: none;
+}
 
 /***********mmenu*************/
 .mm-spn.mm-spn--light {
