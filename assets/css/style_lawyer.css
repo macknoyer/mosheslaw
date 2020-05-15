@@ -581,7 +581,7 @@ section.content-insideBlock p a:hover {
 	background:#c41230;
 }
 .blog-one__image-inner {
-	display: none;
+	/*display: none;*/
 }
 .blog-one__link i,
 .blog-one__title a:hover
