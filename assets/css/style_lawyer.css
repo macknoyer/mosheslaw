@@ -29,10 +29,10 @@ a:hover,.press-text a:hover {
 	font-size: 42px !important;
 }
 .inner-banner .thm-breadcrumb {
-	margin-top: 12px;
+	margin-top: 8px;
 }
 .inner-banner .thm-breadcrumb li {
-	font-size: 12px;
+	font-size: 10px;
 }
 .error_404 {
 	text-align: center;
@@ -161,7 +161,7 @@ h1,.h1,.inner-banner__title {
 .cta-one {background-image: url('../images/background/fact-bg-2-1.jpg');}
 .inner-banner {background-image: none;padding: 0;}
 .cta-one__phone a {font-size: 40px;}
-.inner-banner .thm-breadcrumb li {color:#333;}
+.inner-banner .thm-breadcrumb li {color:#888;}
 
 .contact-one__info-text.address {margin-bottom: 10px;}
 .contact-one__info-text.address:last-child {margin-bottom: 0;}
@@ -291,6 +291,38 @@ h1,.h1,.inner-banner__title {
 }
 .about-one {
 	padding: 50px 0;
+}
+.content-insideSmall ul li {
+
+	list-style: none;
+	margin-bottom: 15px;
+	position: relative;
+	padding-left: 30px;	
+}
+.content-insideSmall ul li:before {
+	/*flex: 0 0 auto;*/
+	font-family: "Font Awesome 5 Free";
+	font-weight: 900;
+	content: '\f058';
+	display: inline-block;
+	font-size: 18px;
+	color: #c41230;
+	margin-right: 10px;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+
+.content-insideSmall ul li img {
+	width: 100%;
+	height: auto;
+	margin: 20px 0;
+}
+.content-insideSmall ul li a {
+	color:#c41230;
+}
+.content-insideSmall ul li a:hover {
+	color:#e0a965;
 }
 .marked-list li{
 	/*display: flex;*/
