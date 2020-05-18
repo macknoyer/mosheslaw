@@ -25,6 +25,14 @@ a:hover,.press-text a:hover {
 }
 .inner-banner__title {
 	margin-top: 0;
+	color:#333;
+	font-size: 42px !important;
+}
+.inner-banner .thm-breadcrumb {
+	margin-top: 12px;
+}
+.inner-banner .thm-breadcrumb li {
+	font-size: 12px;
 }
 .error_404 {
 	text-align: center;
@@ -151,9 +159,9 @@ h1,.h1,.inner-banner__title {
 }
 
 .cta-one {background-image: url('../images/background/fact-bg-2-1.jpg');}
-.inner-banner {background-image: none;padding: 50px 0;}
+.inner-banner {background-image: none;padding: 0;}
 .cta-one__phone a {font-size: 40px;}
-
+.inner-banner .thm-breadcrumb li {color:#333;}
 
 .contact-one__info-text.address {margin-bottom: 10px;}
 .contact-one__info-text.address:last-child {margin-bottom: 0;}
@@ -383,7 +391,7 @@ h1,.h1,.inner-banner__title {
 	font-size: 24px;
 }
 .testimonials-one .inner-container {
-	padding: 80px 24px 73px 24px;
+	padding: 20px 24px 23px 24px;
 	height: 100%;
 	position: relative;
 }
@@ -392,7 +400,7 @@ h1,.h1,.inner-banner__title {
 	width: 150px;
 }
 .testimonials-container {
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
 .testimonials-logo img {
 	width: 100%;
