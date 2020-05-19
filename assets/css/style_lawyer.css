@@ -889,7 +889,14 @@ section.content-insideBlock p a:hover {
 	.blog-one__image-inner > img {
 		top: calc(-50% - 0px);
 	}
-	.brand-img{margin-right: 10px;}
+	.brand-img-container {
+		flex-wrap: wrap;
+	}
+	.brand-img{
+		flex: 0 0 17%;
+		max-width: 17%;
+		margin-right: 10px;
+	}
 	#searchform input[type="text"] {
 		width: 86%;
 	}
