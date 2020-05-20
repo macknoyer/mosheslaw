@@ -1030,7 +1030,9 @@ section.content-insideBlock p a:hover {
 	}
 }
 @media (max-width: 768px) {
-
+	.slider-one .item {
+		display: block !important;
+	}
 	.blog-one__image {
 		width: 100%;
 	}
