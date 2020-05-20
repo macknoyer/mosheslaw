@@ -12,7 +12,7 @@
 		        <section class="blog-one blog-one__grid">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-4">
+                    <div class="col-lg-12">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
                                 <div class="blog-one__image-inner">
@@ -31,7 +31,7 @@
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
-                    <div class="col-lg-4">
+                    <div class="col-lg-12">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
                                 <div class="blog-one__image-inner">
@@ -49,7 +49,7 @@
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
-                    <div class="col-lg-4">
+                    <div class="col-lg-12">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
                                 <div class="blog-one__image-inner">
@@ -67,7 +67,7 @@
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
-                    <div class="col-lg-4">
+                    <div class="col-lg-12">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
                                 <div class="blog-one__image-inner">
@@ -85,7 +85,7 @@
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
-                    <div class="col-lg-4">
+                    <div class="col-lg-12">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
                                 <div class="blog-one__image-inner">
@@ -103,7 +103,7 @@
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
-                    <div class="col-lg-4">
+                    <div class="col-lg-12">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
                                 <div class="blog-one__image-inner">
@@ -121,7 +121,7 @@
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
-                    <div class="col-lg-4">
+                    <div class="col-lg-12">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
                                 <div class="blog-one__image-inner">
@@ -139,7 +139,7 @@
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
-                    <div class="col-lg-4">
+                    <div class="col-lg-12">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
                                 <div class="blog-one__image-inner">
@@ -157,7 +157,7 @@
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
-                    <div class="col-lg-4">
+                    <div class="col-lg-12">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
                                 <div class="blog-one__image-inner">
