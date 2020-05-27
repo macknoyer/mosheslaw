@@ -949,6 +949,10 @@ section.content-insideBlock p a:hover {
 	}
 }
 @media (max-width: 991px) {
+
+	.about-one__text {
+		margin-top: 15px;
+	}
 	.brand-img-container {
 		flex-wrap: wrap;
 	}
