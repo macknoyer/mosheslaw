@@ -8,6 +8,20 @@ body {
 	padding-right: 0;
 	padding-left: 0;
 }
+div.wpcf7-validation-errors, div.wpcf7-acceptance-missing,div.wpcf7-mail-sent-ok {
+    border: 1px solid #c41230;
+    background: #b93e52;
+    z-index: 10;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    color: #fff;
+    padding: 20px 0;
+}
+div.wpcf7-mail-sent-ok {
+	background: #80aa6e;
+	border-color: #398f14;
+}
 .case-form-two .case-form-one__field > i::placeholder, 
 .case-form-two .case-form-one__field .bootstrap-select > .dropdown-toggle::placeholder, 
 .case-form-two .case-form-one__field input[type="text"]::placeholder, 
