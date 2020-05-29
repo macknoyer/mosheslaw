@@ -500,9 +500,16 @@ h1,.h1,.inner-banner__title {
 .case-form-one__field.red input{
 	color: #333 !important; 
 }
+label {
+	font-size: 12px;
+	margin-bottom: 5px;
+}
 .case-form-one__field.red input::placeholder {
 	color: #333 !important;
 	opacity: 1;
+}
+.case-form-one__field.red label {
+	color:#fff;
 }
 .red_form {
 	width: 100%;

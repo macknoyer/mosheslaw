@@ -127,25 +127,28 @@
 				<form class="red_form" action="">
 					<div class="cta-two__content">
 						<h3 class="cta-two__title">Get a Free Consultation From Expert Lawyers!</h3><!-- /.cta-two__title -->
-							<div class="row">
+							<div class="row align-items-end">
 								<div class="col-md">
 									<div class="case-form-one__field red">
+										<label for="">Your Name</label>
 		                                <input type="text" name="name" placeholder="Your Name">
 		                            </div>
                         		</div>
 								<div class="col-md">
 									<div class="case-form-one__field red">
+										<label for="">Phone</label>
 		                                <input type="text" name="phone" placeholder="Phone">
 		                            </div>
                         		</div>
 								<div class="col-md">
 									<div class="case-form-one__field red">
-		                                <input type="text" name="phone" placeholder="Email">
+										<label for="">Email</label>
+		                                <input type="text" name="email" placeholder="Email">
 		                            </div>
                         		</div>
 								<div class="col-md">
 									<div class="case-form-one__field red">
-											<a href="#" class="thm-btn cta-two__btn">Get a Free Call Back<i class="fa fa-long-arrow-alt-right"></i></a>
+										<a href="#" class="thm-btn cta-two__btn">Get a Free Call Back<i class="fa fa-long-arrow-alt-right"></i></a>
 		                            </div>
                         		</div>
 							</div>

@@ -48,11 +48,13 @@
                             <div class="row">
                                 <div class="col-sm-12">
                                     <div class="case-form-one__field">
+                                        <label for="">Your Name</label>
                                         <input type="text" name="name" placeholder="Your Name">
                                     </div><!-- /.case-form-one__field -->
                                 </div><!-- /.col-md-6 col-sm-12 -->
                                 <div class="col-sm-12">
                                     <div class="case-form-one__field">
+                                        <label for="">Email</label>
                                         <input type="text" name="email" placeholder="Email">
                                     </div><!-- /.case-form-one__field -->
                                 </div><!-- /.col-md-6 col-sm-12 -->
@@ -60,11 +62,13 @@
                                     <div class="row">
                                         <div class="col-md-6">
                                             <div class="case-form-one__field">
+                                                <label for="">Phone</label>
                                                 <input type="text" name="Phone" placeholder="Phone">
                                             </div><!-- /.case-form-one__field -->
                                         </div>
                                         <div class="col-md-6">
                                             <div class="case-form-one__field">
+                                                <label for="">Date</label>
                                                 <input type="text" name="date" placeholder="Date">
                                             </div><!-- /.case-form-one__field -->
                                         </div>
@@ -72,6 +76,7 @@
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12">
                                     <div class="case-form-one__field">
+                                        <label for="">Message</label>
                                         <textarea name="message" placeholder="Message"></textarea>
                                     </div><!-- /.case-form-one__field -->
                                 </div><!-- /.col-md-6 col-sm-12 -->
