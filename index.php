@@ -229,7 +229,6 @@
                                         <i class="fas fa-star"></i>
                                         <i class="fas fa-star"></i>
                                     </div>
-                                    <i class="opklim-qoute-1-1 testimonials-one__icon"></i>
                                     <!-- <i class="opklim-qoute-1-1 testimonials-one__icon"></i> -->
                                     <p class="testimonials-one__text">Thanks to the Professionalism and Outsanding Customer Sevice demonstrated by The Law Office of Yuiry Moshes.  I've completed many Real Estate Transactions in my years as a NYS Licensed Salesperson and Real Estate Broker.  I congratulate your organization for the attention to detail and integrity you company displays. </p><!-- /.testimonials-one__text -->
                                     <div class="testimonials-one__info">
@@ -259,7 +258,7 @@
                                         <i class="fas fa-star"></i>
                                         <i class="fas fa-star"></i>
                                     </div>
-                                    <i class="opklim-qoute-1-1 testimonials-one__icon"></i>
+                                    <!-- <i class="opklim-qoute-1-1 testimonials-one__icon"></i> -->
                                     <p class="testimonials-one__text"> We had a great experience with the office of Yuriy Moshes during the purchase of our home. Mr. Moshes or his colleagues were quick to respond to any questions or concerns during the process. I would not hesitate to recommend them to others. Thanks a lot! </p><!-- /.testimonials-one__text -->
                                     <div class="testimonials-one__info">
                                         <div class="testimonials-one__info-content">
@@ -287,7 +286,7 @@
                                         <i class="fas fa-star"></i>
                                         <i class="fas fa-star"></i>
                                     </div>
-                                    <i class="opklim-qoute-1-1 testimonials-one__icon"></i>
+                                    <!-- <i class="opklim-qoute-1-1 testimonials-one__icon"></i> -->
                                     <p class="testimonials-one__text">Hired Yuri to help me through coop purchase process. Yuriy and his staff answered all my questions promptly, I've had attorneys in the past that once paid would take their time and de prioritize your mails, etc..Not the case here. My initial purchase wound up folding week before scheduled closing date due to seller negligence. Almost a year later, I received same level of effort from Yuriy second time around, closed, and am very happy with professionalism and expertise provided. </p><!-- /.testimonials-one__text -->
                                     <div class="testimonials-one__info">
                                         <div class="testimonials-one__info-content">
