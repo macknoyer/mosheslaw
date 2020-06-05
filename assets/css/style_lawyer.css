@@ -73,6 +73,9 @@ h1,.h1,.inner-banner__title {
 .main-logo-small {
 	width: 200px;
 }
+.site-footer *{
+	color:#fff;
+}
 .footer-widget a {
 	color:#aaaaaa;
 	font-weight: bold;
@@ -825,7 +828,7 @@ section.content-insideBlock p a:hover {
 	top: 0;
 	display: flex;
 	align-content: center;
-	aiign-items: center;
+	align-items: center;
 	align-items: center;
 	background: transparent;
 	transition: all ease .3s;
